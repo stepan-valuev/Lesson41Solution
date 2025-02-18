@@ -1,1 +1,0 @@
-int average_mark
